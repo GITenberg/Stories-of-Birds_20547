@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '9372'
     url: http://www.gutenberg.org/2009/agents/9372
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20547#Stories-of-Birds
 gutenberg_bookshelf: Animals-Wild-Birds
 gutenberg_issued: '2007-02-08'
 gutenberg_type: Text
