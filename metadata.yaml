@@ -1,0 +1,27 @@
+_repo: Stories-of-Birds_20547
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 20547-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Mulets, Lenore Elizabeth
+    birthdate: 1876
+    gutenberg_agent_id: '9372'
+    url: http://www.gutenberg.org/2009/agents/9372
+description: ''
+gutenberg_bookshelf: Animals-Wild-Birds
+gutenberg_issued: '2007-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20547'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'QL'
+- !lcsh 'Birds -- Juvenile literature'
+title: Stories of Birds
+url: http://www.gutenberg.org/ebooks/20547
